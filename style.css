@@ -1,3 +1,36 @@
-h1 {
-    color: #5f7eaa;
+/* Colors used
+#67A1E0 - blueish
+#EEF7FC - light gray
+#060E0D - almost black
+*/
+* {
+    color: #060E0D;
+}
+
+body {
+    background-color: #EEF7FC;
+}
+
+h1{
+    font-family: 'Ruda', sans-serif;
+    background-color: #67A1E0;
+    text-align: center;
+}
+
+ul {
+    font-size: 20px;
+    background-color: #67A1E0;
+}
+
+.navigation {
+    font-family: 'Ruda', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    font-family: 'Roboto Slab', serif;
+    background-color: #67A1E0;
 }
